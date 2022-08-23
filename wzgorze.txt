@@ -1,0 +1,4 @@
+Jedną z najdłuższych nazw geograficznych na świecie jest:
+Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu
+
+Skopiuj ją i wklej w kodzie źródłowym programu.

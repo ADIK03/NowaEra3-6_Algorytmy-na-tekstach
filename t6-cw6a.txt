@@ -1,0 +1,22 @@
+Ćwiczenie 6
+a. Zapisz specyfikację do programu Sprawdzenie adresu. Zaproponuj brzmienie 
+   wykorzystywanych w nim komunikatów.
+
+
+Dane
+cztery napisy oznaczające kolejno: imię, nazwisko oraz adres e-mail (podany
+dwukrotnie).
+
+Wynik
+komunikat: 
+* "Hasło do serwisu wysłaliśmy na adres: <adres_email>", jeśli wpisane adresy są
+   identyczne oraz jest to poprawnym adresem e-mail:
+   a) zawiera dokładnie jeden znak "@", który nie jest pierwszym ani drugim
+      znakiem napisu,
+   b) zawiera dokładnie jeden znak "." na pozycji trzeciej lub czwartej od końca
+      oraz nie występuje bezpośrednio po znaku "@".
+* "Podany adres e-mail nie jest poprawny!", jeśli pierwszy wpisany adres
+   nie jest poprawnym adresem e-mail,
+
+* "Podane adresy e-mail są różne!", jeśli wpisane adresy są różne.
+

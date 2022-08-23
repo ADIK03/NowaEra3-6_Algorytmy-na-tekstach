@@ -1,0 +1,12 @@
+(**) Zadanie 15
+Pod kodem 7F(16) (binarnie 0111 1111) w tablicy ASCII kryje się kod znaku 
+sterującego DEL (od ang. delete, czyli usunąć). Poszukaj wiarygodnej informacji 
+wyjaśniającej przyczynę umieszczenia kodu tego znaku w tym miejscu. Jaki miało 
+to związek z zapisem na taśmie dziurkowanej używanej w drukarkach dalekopisów? 
+Przygotuj krótką prezentację na temat ewolucji kodów stosowanych w telegrafii 
+i teleksach. Uwzględnij kody Baudota–Murraya, ITA2 oraz ASCII.
+
+Kod znaku DEL był używany do oznaczania usuniętych/błędnych znaków na taśmie
+perforowanej, ponieważ kod dowolnego znak zapisanego na taśmie (7-bitowy ASCII)
+mógł zostać zmieniony na ciąg samych jedynek (wystarczyło wykonać otwory na
+wszystkich pozycjach kodujących dany znak.

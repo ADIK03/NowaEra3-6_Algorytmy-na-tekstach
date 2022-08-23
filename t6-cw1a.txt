@@ -1,0 +1,7 @@
+Ćwiczenie 1
+a. Uruchom edytor tekstu i wybierz czcionkę Segoe UI Emoji lub Segoe UI Symbol. 
+Następnie, przytrzymując wciśnięty lewy klawisz Alt, wybierz w części
+numerycznej klawiatury kolejno cyfry: 128190.
+Jaki symbol kryje się pod tym kodem?
+
+Pod tym kodem (128190) kryje się symbol dyskietki.

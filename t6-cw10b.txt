@@ -1,0 +1,6 @@
+Ćwiczenie 10
+b. Ile prób dopasowania wzorca trzeba by było wykonać w powyższym ćwiczeniu, 
+   gdyby wyszukiwanie zacząć od końca?
+
+Jeśli wyszukiwanie wzorca (ZASZCZYT) w tekście (ZA  SZCZYTEM  ZASZCZYT)
+zaczniemy od kocńca, to wystarczy jedna próba dopasowania wzorca.

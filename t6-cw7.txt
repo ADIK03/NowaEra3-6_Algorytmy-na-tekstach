@@ -1,0 +1,26 @@
+Ćwiczenie 7
+Przeanalizuj działanie algorytmu dla listy zakupów składającej się z ośmiu 
+wyrazów, wśród których są dwa powtórzenia, a jedno pojawia się na końcu.
+
+Lista wyrazów:
+chleb
+chleb
+cytryna
+herbata
+jabłko
+masło
+pomidor
+pomidor
+***
+
+Napis   | Czy dublet? | Czy koniec listy? | Lista wynikowa
+--------------------------------------------------------------------------------------
+chleb   | -           | nie               | chleb
+chleb   | tak         | nie               | chleb
+cytryna | nie         | nie               | chleb cytryna
+herbata | nie         | nie               | chleb cytryna herbata
+jabłko  | nie         | nie               | chleb cytryna herbata jabłko
+masło   | nie         | nie               | chleb cytryna herbata jabłko masło
+pomidor | nie         | nie               | chleb cytryna herbata jabłko masło pomidor
+pomidor | tak         | nie               | chleb cytryna herbata jabłko masło pomidor
+***     | nie         | tak               | chleb cytryna herbata jabłko masło pomidor
